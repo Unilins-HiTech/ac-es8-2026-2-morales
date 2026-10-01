@@ -13,7 +13,7 @@ const COLD_START_HINT =
 async function backendRequest(path, options = {}) {
 
 	let response;
-
+git add .
 	try {
 
 		response = await fetch(`${BACKEND_URL}${path}`, {
