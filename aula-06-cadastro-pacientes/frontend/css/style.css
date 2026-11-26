@@ -1,0 +1,4 @@
+/* Mantém o texto da UF em maiúsculas visualmente enquanto o usuário digita */
+#uf {
+  text-transform: uppercase;
+}
